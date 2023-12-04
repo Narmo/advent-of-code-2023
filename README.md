@@ -11,3 +11,4 @@ delivered by JetBrains.
 |  1  | ⭐ <br/> Time 01:52:37 <br/>Rank 18512<br/> Score 0 | ⭐ <br/> Time 02:26:06 <br/>Rank 13023<br/> Score 0 | [Trebuchet](https://en.wikipedia.org/wiki/Trebuchet)       |
 |  2  |   ⭐ <br/> Time >24h <br/>Rank 99135<br/> Score 0   |   ⭐ <br/> Time >24h <br/>Rank 95032<br/> Score 0   |                                                            |
 |  3  | ⭐ <br/> Time 02:03:30 <br/>Rank 12092<br/> Score 0 | ⭐ <br/> Time 02:21:26 <br/>Rank 10079<br/> Score 0 | [Gondola lift](https://en.wikipedia.org/wiki/Gondola_lift) |
+|  4  | ⭐ <br/> Time 01:38:03 <br/>Rank 18049<br/> Score 0 | ⭐ <br/> Time 02:05:15 <br/>Rank 14890<br/> Score 0 | [Scratchcard](https://en.wikipedia.org/wiki/Scratchcard)   |
