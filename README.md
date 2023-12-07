@@ -13,3 +13,4 @@ delivered by JetBrains.
 |  3  | ⭐ <br/> Time 02:03:30 <br/>Rank 12092<br/> Score 0 | ⭐ <br/> Time 02:21:26 <br/>Rank 10079<br/> Score 0 | [Gondola lift](https://en.wikipedia.org/wiki/Gondola_lift)                                            |
 |  4  | ⭐ <br/> Time 01:38:03 <br/>Rank 18049<br/> Score 0 | ⭐ <br/> Time 02:05:15 <br/>Rank 14890<br/> Score 0 | [Scratchcard](https://en.wikipedia.org/wiki/Scratchcard)                                              |
 |  5  | ⭐ <br/> Time 05:26:40 <br/>Rank 26838<br/> Score 0 |      ⭐ <br/> Time - <br/>Rank -<br/> Score -       | [Filter](https://en.wikipedia.org/wiki/Sand_filter), [Almanac](https://en.wikipedia.org/wiki/Almanac) |
+|  6  |   ⭐ <br/> Time >24h <br/>Rank 69339<br/> Score 0   |   ⭐ <br/> Time >24h <br/>Rank 68132<br/> Score 0   | [Kerning](https://en.wikipedia.org/wiki/Kerning)                                                      |
