@@ -29,3 +29,9 @@ inline fun <T> benchmark(block: () -> T): T {
 
 	return result
 }
+
+fun <T> MutableList<T>.removeDuplicates() {
+	val setItems: Set<T> = LinkedHashSet(this)
+	clear()
+	addAll(setItems)
+}
